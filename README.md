@@ -33,7 +33,7 @@ I am an undergraduate CSE student at Zagazig University <img src="https://media.
 
 - **AVR**: Experienced in interfacing with Atmega microcontrollers.
 - **STM**: Familiar with STM32 microcontrollers for complex applications.
-- **NodeMCU**: Worked extensively with ESP8266-based NodeMCU boards for IoT
+- **ESP**: Worked extensively with ESP8266-based NodeMCU and esp32 boards for IoT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-elbahrawy/)
 
