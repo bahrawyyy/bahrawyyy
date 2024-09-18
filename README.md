@@ -28,12 +28,7 @@
 
 
 ### :man_technologist: About Me :
-I am an undergraduate CSE student at Zagazig University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m a passionate embedded systems enthusiast.
-
-- **AVR**: Experienced in interfacing with Atmega microcontrollers.
-- **STM**: Familiar with STM32 microcontrollers for complex applications.
-- **ESP**: Worked extensively with ESP8266-based NodeMCU and esp32 boards for IoT
+Software & DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-elbahrawy/)
 
@@ -48,6 +43,9 @@ I am an undergraduate CSE student at Zagazig University <img src="https://media.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
